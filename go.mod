@@ -8,12 +8,10 @@ require (
 	github.com/aws/aws-lambda-go v1.6.0
 	github.com/aws/aws-sdk-go v1.15.66
 	github.com/golang/mock v1.2.0
-	github.com/golang/protobuf v1.2.0
+	github.com/golang/protobuf v1.4.3
 	github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af // indirect
 	github.com/newrelic/go-agent v2.7.0+incompatible
-	github.com/prometheus/client_golang v0.9.3-0.20190127221311-3c4408c8b829
-	github.com/prometheus/client_model v0.0.0-20190115171406-56726106282f
+	github.com/prometheus/client_golang v1.11.1
+	github.com/prometheus/client_model v0.2.0
 	google.golang.org/genproto v0.0.0-20190401181712-f467c93bbac2
-	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
